@@ -1,0 +1,12 @@
+crewai
+crewai-tools
+fastapi
+uvicorn
+python-dotenv
+google-generativeai
+pydantic
+python-multipart
+markdown
+fpdf2
+python-docx
+requests
